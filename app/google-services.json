@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "413970940634",
+    "project_id": "assignmentonecloud",
+    "storage_bucket": "assignmentonecloud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413970940634:android:28df8e7391149cbd0b9be3",
+        "android_client_info": {
+          "package_name": "com.example.assignmentonecloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413970940634-a253214juml1qpfc5tj9239njp750bk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0184WlBI-dmLroGPo_l7v-6ltqyMEv7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413970940634-a253214juml1qpfc5tj9239njp750bk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413970940634:android:d03e92963e0b48790b9be3",
+        "android_client_info": {
+          "package_name": "com.example.assignmenttowcloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413970940634-a253214juml1qpfc5tj9239njp750bk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0184WlBI-dmLroGPo_l7v-6ltqyMEv7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413970940634-a253214juml1qpfc5tj9239njp750bk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
